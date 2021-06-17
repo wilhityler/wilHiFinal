@@ -1,0 +1,28 @@
+nav.top_nav ul {
+    list-style: none;
+}
+nav.top_nav ul li {
+    float: left;
+    margin-right: .05em;
+}
+nav.top_nav ul li a {
+    padding: 0.25em 1em;
+    text-decoration: none;
+    background-color: aliceblue;
+    color: darkblue;
+    border: 2px solid black;
+    border-radius: 1em 1em 0px 0px;
+    
+}
+nav.top_nav ul li a:hover, nav ul li a:focus {
+    color: black;
+    box-sizing: larger;
+    background-color: white;
+    font-weight: bold;
+}
+.pink {
+    color:pink;
+}
+.green {
+    color:green;
+}
